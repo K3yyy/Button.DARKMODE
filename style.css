@@ -1,0 +1,21 @@
+.full{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    margin: auto;
+    transform: translateY(300px);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.click{
+    width: 50%;
+    height: 90%;
+    background-color: white;
+    border-radius: 50px;
+    transform: translateX(-70px);
+    cursor: pointer;
+    transition: 0.5s;
+    
+}
